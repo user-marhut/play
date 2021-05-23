@@ -99,7 +99,7 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox Crime" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/fox_crime.png", FoxCrime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 tvg-name="WarnerTV" group-title="Entertainment" tvg-logo="https://cdn.macan.tv/img/warnertv.png", Warner TV
+#EXTINF:-1 tvg-name="WarnerTV" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/warnertv.png", Warner TV
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", Fox Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
