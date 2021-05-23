@@ -195,6 +195,8 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Chinese", Chinese Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 
+#EXTINF:-1 tvg-logo="" group-title="Korea", TVN
+http://210.210.155.35:80/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/880680263742894080/MUuQgbht.jpg" group-title="Korea",SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png" group-title="Korea",SBS Plus
