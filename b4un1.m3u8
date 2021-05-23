@@ -150,17 +150,19 @@ http://cloudcdn.tk:80/Dennis12/HlVdoW574/54966
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supertennis_hd.jpg" group-title="Sports",Super Tennis FHD
 http://cloudcdn.tk:80/Dennis12/HlVdoW574/4084
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis Channel Plus
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8?checkedby
-#EXTINF:-1 tvg-logo="" group-title="Sports", SPORT TV 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", SPORT TV 2
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", SPORT TV 3
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", SPORT TV 4
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 4
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", SPORT TV 5
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Fight Sport
+http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bt1.png" group-title="Sports", BT Sports 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bt2.png" group-title="Sports", BT Sports 2
