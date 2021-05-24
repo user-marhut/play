@@ -143,6 +143,10 @@ http://clientportal.link:80/P4PO6lK225/rpUe6f281/23452
 http://clientportal.link:80/P4PO6lK225/rpUe6f281 /23451
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass4_hd.png" group-title="Sports",Astro Super Sport 4
 http://clientportal.link:80/P4PO6lK225/rpUe6f281/33973
+#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="beIN Sports 1 AU" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/05/beinsports1.png" group-title="Sports",beIN Sports 1 AU
+http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/33648
+#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="beIN Sports 2 AU" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/05/beinsports2.png" group-title="Sports",beIN Sports 2 AU
+http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/33649
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Tennis Channel" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/tennis_channel.png" group-title="Sports",Tennis Channel FHD
 http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/18386
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="SuperSport Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supersport-tennis.png" group-title="Sports",SuperSport Tennis HD
@@ -216,7 +220,6 @@ http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="International Channel", RT (Rusia TV)
 http://210.210.155.35:80/qwr9ew/s/s23/01.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="Music", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
