@@ -109,6 +109,10 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 http://210.210.155.35/dr9445/h/h37/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="", Hits Movies
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF:-1 tvg-name="Blue Ant Extreme" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/blue_ant_extreme.png", Blue Ant Extreme
+http://210.210.155.35/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-name="Blue Ant Entertainment" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/blue_ant_entertainment.png", Blue Ant Entertainment
+http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/flix_logo-1.png", &Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/26privc3a9_hd.jpg", &Prive
@@ -154,9 +158,9 @@ http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/4084
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 1
-https://d1p3rhis559dx3as.ezcdn654.net:8443/hls/walxjawfo5x.m3u8?s=iyudcM_1pulgYvowrsnXNA&e=1622037365
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 2
-https://d1p3rhis559dx3as.ezcdn654.net:8443/hls/u225jtufy2dkv.m3u8?s=nNmpzhzlBbK6wRc14O4szA&e=1622037951
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 4
@@ -200,7 +204,7 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 
 #EXTINF:-1 tvg-logo="" group-title="Korea", tvN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+http://210.210.155.35/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-name="tvN Movies" tvg-logo="" group-title="Korea", tvN Movies
 http://210.210.155.35:80/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/880680263742894080/MUuQgbht.jpg" group-title="Korea",SBS Star
