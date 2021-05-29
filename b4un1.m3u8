@@ -8,7 +8,7 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/mnc-tv.jpg" group-title="Lokal",MNC TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 #EXTINF:-1 tvg-logo="" group-title="Lokal",NET.
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/transtv.png" group-title="Lokal",Trans TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/trans7.png" group-title="Lokal",Trans 7
