@@ -21,6 +21,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Lokal" tvg-logo="http://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?id=8", Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal",RTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
 #EXTINF:0 tvg-country="ID" tvg-logo="https://cdn.macan.tv/img/metrotv.png" group-title="Lokal",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/inews-tv.jpg" group-title="Lokal",iNews
