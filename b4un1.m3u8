@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/rcti.jpg" group-title="Lokal",RCTI
-https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/sctv.png" group-title="Lokal",SCTV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/gtv.jpg" group-title="Lokal",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/mnc-tv.jpg" group-title="Lokal",MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 #EXTINF:-1 tvg-logo="" group-title="Lokal",NET.
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/transtv.png" group-title="Lokal",Trans TV
@@ -24,7 +24,7 @@ https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://cdn.macan.tv/img/metrotv.png" group-title="Lokal",Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/inews-tv.jpg" group-title="Lokal",iNews
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5409
 #EXTINF:-1 tvg-logo="" group-title="Lokal",TVOne
 http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="Lokal",TVRI Nasional
@@ -54,8 +54,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/01/the_indonesia_channel_logo.jpg" group-title="Lokal", The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/jawapostv.jpg" group-title="Lokal", Jawapos TV
-http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eljhon_small.png?v=1.1" group-title="Lokal", El John TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/playlist.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="Lokal",Cahaya TV Banten
@@ -101,7 +99,7 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", Fox Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies", HBO
+#EXTINF:-1 tvg-logo="" group-title="Movies", HBO ID
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
@@ -155,9 +153,9 @@ http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/18386
 http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/54966
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Super Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supertennis_hd.jpg" group-title="Sports",Super Tennis FHD
 http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/4084
-#EXTINF:-1 tvg-logo="" group-title="Sports",The Tennis Channel Plus 1
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/05/tcplus.png" group-title="Sports",Tennis Channel Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",The Tennis Channel Plus 2
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/05/tcplus.png" group-title="Sports",Tennis Channel Plus 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sport TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
