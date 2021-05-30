@@ -8,14 +8,14 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/mnc-tv.jpg" group-title="Lokal",MNC TV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 #EXTINF:-1 tvg-logo="" group-title="Lokal",NET.
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/transtv.png" group-title="Lokal",Trans TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/trans7.png" group-title="Lokal",Trans 7
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/cdd283c9d3d43b5.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/indosiar.png" group-title="Lokal",Indosiar
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lokal",RTV
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/rtv.png" group-title="Lokal",RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/kompastv.png" group-title="Lokal",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
@@ -56,6 +56,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/01/the_indonesia_channel_logo.jpg" group-title="Lokal", The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/jawapostv.jpg" group-title="Lokal", Jawapos TV
+http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eljhon_small.png?v=1.1" group-title="Lokal", El John TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/playlist.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="Lokal",Cahaya TV Banten
@@ -138,23 +140,23 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/fox_sports_2.png" group-title="Sports",Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass_hd.png" group-title="Sports",Astro Super Sport 1
-http://clientportal.link:80/P4PO6lK225/rpUe6f281/23453
+http://clientportal.link:80/7hoihkA150/2e1ELc344/23453
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass2_hd.png" group-title="Sports",Astro Super Sport 2
-http://clientportal.link:80/P4PO6lK225/rpUe6f281/23452
+http://clientportal.link:80/7hoihkA150/2e1ELc344/23452
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass3_hd.png" group-title="Sports",Astro Super Sport 3
-http://clientportal.link:80/P4PO6lK225/rpUe6f281 /23451
+http://clientportal.link:80/7hoihkA150/2e1ELc344 /23451
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass4_hd.png" group-title="Sports",Astro Super Sport 4
-http://clientportal.link:80/P4PO6lK225/rpUe6f281/33973
+http://clientportal.link:80/7hoihkA150/2e1ELc344/33973
 #EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="beIN Sports 1 AU" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/05/beinsports1.png" group-title="Sports",beIN Sports 1 AU
-http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/33648
+http://cloudcdn.tk:80/7hoihkA150/2e1ELc344/33648
 #EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="beIN Sports 2 AU" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/05/beinsports2.png" group-title="Sports",beIN Sports 2 AU
-http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/33649
+http://cloudcdn.tk:80/7hoihkA150/2e1ELc344/33649
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Tennis Channel" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/tennis_channel.png" group-title="Sports",Tennis Channel FHD
-http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/18386
+http://cloudcdn.tk:80/7hoihkA150/2e1ELc344/18386
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="SuperSport Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supersport-tennis.png" group-title="Sports",SuperSport Tennis HD
-http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/54966
+http://cloudcdn.tk:80/7hoihkA150/2e1ELc344/54966
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Super Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supertennis_hd.jpg" group-title="Sports",Super Tennis FHD
-http://cloudcdn.tk:80/P4PO6lK225/rpUe6f281/4084
+http://cloudcdn.tk:80/7hoihkA150/2e1ELc344/4084
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/05/tcplus.png" group-title="Sports",Tennis Channel Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/05/tcplus.png" group-title="Sports",Tennis Channel Plus 2
