@@ -132,7 +132,7 @@ http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kid", Nickelodeon
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC Me" tvg-name="ABC Me" group-title="Kids" tvg-logo="https://meneerz.files.wordpress.com/2021/06/abc_me.jpg", ABC Me
-http://cloudcdn.tk:80/1W2BJkBWpB/WWnopD9vTO/33919
+http://cloudcdn.tk:80/vD4zRTN49/jdzgwO23/33919
 
 #EXTINF:-1   tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/fox_sports_1-1.png" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -141,19 +141,19 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/fox_sports_2.png" group-title="Sports",Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass_hd.png" group-title="Sports",Astro Super Sport 1
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/23453
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/23453
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass2_hd.png" group-title="Sports",Astro Super Sport 2
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/23452
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/23452
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass3_hd.png" group-title="Sports",Astro Super Sport 3
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO /23451
+http://clientportal.link:80/vD4zRTN49/jdzgwO23 /23451
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass4_hd.png" group-title="Sports",Astro Super Sport 4
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/33973
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/33973
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Tennis Channel" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/tennis_channel.png" group-title="Sports",Tennis Channel FHD
-http://cloudcdn.tk:80/1W2BJkBWpB/WWnopD9vTO/18386
+http://cloudcdn.tk:80/vD4zRTN49/jdzgwO23/18386
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="SuperSport Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supersport-tennis.png" group-title="Sports",SuperSport Tennis HD
-http://cloudcdn.tk:80/1W2BJkBWpB/WWnopD9vTO/54966
+http://cloudcdn.tk:80/vD4zRTN49/jdzgwO23/54966
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Super Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supertennis_hd.jpg" group-title="Sports",Super Tennis FHD
-http://cloudcdn.tk:80/1W2BJkBWpB/WWnopD9vTO/4084
+http://cloudcdn.tk:80/vD4zRTN49/jdzgwO23/4084
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/05/tcplus.png" group-title="Sports",Tennis Channel Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/05/tcplus.png" group-title="Sports",Tennis Channel Plus 2
@@ -175,33 +175,33 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bt2.png" group-title="Sports", BT Sports 2
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports AR 1 HD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 1 HD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14980
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14980
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports AR 1 SD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 1 SD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14981
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14981
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports AR 2 HD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 2 HD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14982
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14982
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports AR 2 SD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 2 SD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14983
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14983
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports AR 3 HD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 3 HD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14984
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14984
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports AR 3 SD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 3 SD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14985
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14985
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports AR 4 HD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 4 HD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14986
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14986
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports AR 4 SD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 4 SD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14987
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14987
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports AR 5 HD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 5 HD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14988
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14988
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports AR 5 SD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 5 SD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14989
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14989
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports AR 6 HD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 6 HD AR
-http://clientportal.link:80//1W2BJkBWpB/WWnopD9vTO/14990
+http://clientportal.link:80//vD4zRTN49/jdzgwO23/14990
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports AR 6 SD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 6 SD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14991
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14991
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports AR 7 HD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 7 HD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14992
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14992
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports AR 7 SD (EPL)" tvg-logo="" group-title="Sports",beIN Sports 7 SD AR
-http://clientportal.link:80/1W2BJkBWpB/WWnopD9vTO/14993
+http://clientportal.link:80/vD4zRTN49/jdzgwO23/14993
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports.png" group-title="Sports", True Sport 1
 http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports2.png" group-title="Sports", True Sport 2
@@ -244,7 +244,7 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/abcnews.jpg" group-title="International Channel",ABC News
-http://cloudcdn.tk:80/1W2BJkBWpB/WWnopD9vTO/33917
+http://cloudcdn.tk:80/vD4zRTN49/jdzgwO23/33917
 #EXTINF:-1 tvg-logo="" group-title="International Channel",Aljazeera
 http://210.210.155.35:80/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="International Channel",DW
