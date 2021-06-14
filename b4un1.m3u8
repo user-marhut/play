@@ -9,9 +9,9 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/net.png" group-title="Lokal",NET.
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/transtv.png" group-title="Lokal",Trans TV
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TransTV.MACAN" group-title="Lokal" tvg-logo="https://cdn.macan.tv/img/transtv.png", Trans TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/trans7.png" group-title="Lokal",Trans 7
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="Trans7.MACAN" group-title="Lokal" tvg-logo="https://cdn.macan.tv/img/trans7.png", Trans 7
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/cdd283c9d3d43b5.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/indosiar.png" group-title="Lokal",Indosiar
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8
@@ -102,9 +102,9 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", Fox Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies", HBO ID
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBOHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies", HBO Hits
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBOHitsHD.MACAN" group-title="Movies" tvg-logo="https://cdn.macan.tv/img/hbo_hits.png", HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="", Hits
 http://210.210.155.35/dr9445/h/h37/01.m3u8
@@ -131,7 +131,7 @@ http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kid", Nickelodeon
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC Me" tvg-name="ABC Me" group-title="Kids" tvg-logo="https://meneerz.files.wordpress.com/2021/06/abc_me.jpg", ABC Me
+#EXTINF:-1 tvg-id="ABC Me" tvg-name="ABC Me" group-title="Kid" tvg-logo="https://meneerz.files.wordpress.com/2021/06/abc_me.jpg", ABC Me
 http://cloudcdn.tk:80/vD4zRTN49/jdzgwO23/33919
 
 #EXTINF:-1   tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/fox_sports_1-1.png" group-title="Sports",Fox Sport 1
