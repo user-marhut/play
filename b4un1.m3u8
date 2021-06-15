@@ -168,6 +168,10 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_5.png" group-title="Sports", Sport TV 5
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv.png" group-title="Sports", Sport TV + FHD
+http://tv.rapidiptv.tvip.xyz:80/Ps1gfW661/fTeMeM99/19589
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv.png" group-title="Sports", Sport TV +
+http://tv.rapidiptv.tvip.xyz:80/Ps1gfW661/fTeMeM99/9499
 #EXTINF:-1 tvg-logo="" group-title="Sports", Fight Sport
 http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bt1.png" group-title="Sports", BT Sports 1
