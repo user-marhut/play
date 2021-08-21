@@ -4,9 +4,9 @@ https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indo
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/sctv.png" group-title="Lokal",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/gtv.jpg" group-title="Lokal",GTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/mnc-tv.jpg" group-title="Lokal",MNC TV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/net.png" group-title="Lokal",NET.
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TransTV.MACAN" group-title="Lokal" tvg-logo="https://cdn.macan.tv/img/transtv.png", Trans TV
@@ -14,7 +14,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="Trans7.MACAN" group-title="Lokal" tvg-logo="https://cdn.macan.tv/img/trans7.png", Trans 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/indosiar.png" group-title="Lokal",Indosiar
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/rtv.png" group-title="Lokal",RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/kompastv.png" group-title="Lokal",Kompas TV
@@ -35,6 +35,8 @@ http://210.210.155.35:80/session/8468fbd6-2ed9-11eb-81ff-b82a72d63267/qwr9ew/s/s
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Lokal",Berita Satu HD
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" group-title="Lokal" tvg-logo="https://cdn.macan.tv/img/antv.png", ANTV
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/jakartaglobenews.png" group-title="Lokal",Jakarta Globe News
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Lokal",CNBC Indonesia
@@ -42,7 +44,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/seatoday_small.png" group-title="Lokal",SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd 
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_mytv_small.png?id=8" group-title="Lokal", Mytv 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
+http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/pfiT7Kx.png" group-title="Lokal",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/01/magna.png" group-title="Lokal", Magna TV
@@ -59,8 +61,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-4
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eljhon_small.png?v=1.1" group-title="Lokal", El John TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lokal", MyTV
-http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="Lokal",Cahaya TV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Lokal",RRI Net
