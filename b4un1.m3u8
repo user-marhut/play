@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/rcti.jpg" group-title="Lokal",RCTI
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/sctv.png" group-title="Lokal",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/gtv.jpg" group-title="Lokal",GTV
