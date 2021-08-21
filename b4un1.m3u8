@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/rcti.jpg" group-title="Lokal",RCTI
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/sctv.png" group-title="Lokal",SCTV
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=204
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/gtv.jpg" group-title="Lokal",GTV
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/03/mnc-tv.jpg" group-title="Lokal",MNC TV
@@ -30,7 +30,7 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=5409
 #EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/tvone.png" group-title="Lokal",TVOne
 http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="Lokal",TVRI
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6441
+http://210.210.155.35:80/session/8468fbd6-2ed9-11eb-81ff-b82a72d63267/qwr9ew/s/s11/01.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="Lokal",TVRI Kanal 3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Lokal",Berita Satu HD
@@ -59,6 +59,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-4
 http://122.248.43.138:1935/ch6/myStream/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eljhon_small.png?v=1.1" group-title="Lokal", El John TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lokal", MyTV
+http://210.210.155.35:80/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="Lokal",Cahaya TV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 #EXTINF:0 tvg-country="ID" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Lokal",RRI Net
@@ -82,7 +84,7 @@ http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Knowledge" tvg-logo="https://cdn.macan.tv/img/natgeowild.png", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/nasa_tv.jpeg" group-title="Knowledge",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", CGTN Documentary
