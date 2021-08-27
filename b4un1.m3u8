@@ -189,8 +189,6 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
-#EXTINF:-1 tvg-id="ABC Me" tvg-name="ABC Me" group-title="Kids" tvg-logo="https://meneerz.files.wordpress.com/2021/06/abc_me.jpg", ABC Me
-http://cloudcdn.tk:80/MatiasBoegli/dHUk2O435/33919
 
 #EXTINF:-1 group-title="Sports",Fox Sports 1
 https://liveanevia.mncnow.id/live/eds/FoxSports1/sa_dash_vmx/FoxSports1.mpd
@@ -330,4 +328,3 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OGY3YmY2OGUtMTVmYi0zZWFiLWJiMzktOTYxYjdlMjQ3YjMx
-
