@@ -321,6 +321,20 @@ http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport2&bandwidth=default&sync=0
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/06/fox_sports_3.png",FOX SPORTS 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+#EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass_hd.png" group-title="SPORTS",Astro Super Sport 1
+http://clientportal.link:80/QPwQDo82/NokdBd03/23453
+#EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass2_hd.png" group-title="SPORTS",Astro Super Sport 2
+http://clientportal.link:80/QPwQDo82/NokdBd03/23452
+#EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass3_hd.png" group-title="SPORTS",Astro Super Sport 3
+http://clientportal.link:80/QPwQDo82/NokdBd03 /23451
+#EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass4_hd.png" group-title="SPORTS",Astro Super Sport 4
+http://clientportal.link:80/QPwQDo82/NokdBd03/33973
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Tennis Channel" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/tennis_channel.png" group-title="SPORTS",Tennis Channel FHD
+http://cloudcdn.tk:80/QPwQDo82/NokdBd03/18386
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="SuperSport Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supersport-tennis.png" group-title="SPORTS",SuperSport Tennis HD
+http://cloudcdn.tk:80/QPwQDo82/NokdBd03/54966
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Super Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supertennis_hd.jpg" group-title="SPORTS",Super Tennis FHD
+http://cloudcdn.tk:80/QPwQDo82/NokdBd03/4084
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="RELIGION",LIFE
@@ -349,4 +363,3 @@ https://liveanevia.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="LIFESTYLE",MNC SHOP SMART
 https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
-
