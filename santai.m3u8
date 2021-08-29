@@ -327,6 +327,12 @@ http://cloudcdn.tk:80/QPwQDo82/NokdBd03/18386
 http://cloudcdn.tk:80/QPwQDo82/NokdBd03/54966
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Super Tennis" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supertennis_hd.jpg" group-title="SPORTS",Super Tennis FHD
 http://cloudcdn.tk:80/QPwQDo82/NokdBd03/4084
+#EXTINF:-1 group-title="SPORTS", BT Sport 1 HD
+http://cloudcdn.tk:80/lecomilan/0gtA1l15/1991
+#EXTINF:-1 group-title="SPORTS", BT Sport 2 HD
+http://cloudcdn.tk:80/lecomilan/0gtA1l15/1992
+#EXTINF:-1 group-title="SPORTS", BT Sport 3 HD
+http://cloudcdn.tk:80/lecomilan/0gtA1l15/14903
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="RELIGION",LIFE
