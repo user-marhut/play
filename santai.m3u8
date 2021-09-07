@@ -143,7 +143,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 http://topwin-tv.my.id/2/master.m3u8?id=bioskopindonesia
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/flik_small.png", FLIK
 http://topwin-tv.my.id/2/master.m3u8?id=flik
-#EXTINF:-1 group-title="MOVIES" tvg-logo="", IMC
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/imc_small.png", IMC
 http://topwin-tv.my.id/2/master.m3u8?id=imc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
