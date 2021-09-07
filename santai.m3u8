@@ -228,11 +228,11 @@ http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/08/useesports2_small.png", USEE SPORTS 2
 http://topwin-tv.my.id/2/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Tennis Channel" tvg-logo="https://meneerz.files.wordpress.com/2021/09/tennisch_small.png" group-title="SPORTS",Tennis Channel FHD
-http://cloudcdn.tk:80/lecomilan/0gtA1l15/18386
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/18386
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="SuperSport Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/09/suppersport_tennis.png" group-title="SPORTS",SuperSport Tennis HD
-http://cloudcdn.tk:80/lecomilan/0gtA1l15/54966
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/54966
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="Super Tennis" tvg-logo="https://meneerz.files.wordpress.com/2021/09/supertennis_small.png" group-title="SPORTS",Super Tennis FHD
-http://cloudcdn.tk:80/lecomilan/0gtA1l15/4084
+http://cloudcdn.tk:80/RaulDasilva/UXxhgo842/4084
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/soccerch.png",SOCCER CHANNEL
