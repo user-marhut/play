@@ -187,10 +187,6 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bbcearth_small-1.png",BBC EARTH
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/discovery_small.png", Discovery Channel
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hgtv_small.png", HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/afn_small.png",ASIAN FOOD NETWORK
@@ -199,8 +195,18 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 http://gpc.my.id/vidio/smithsonian.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/08/discovery_small.png", DISCOVERY CHANNEL
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hgtv_small.png", HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="https://meneerz.files.wordpress.com/2021/09/besmart_small.png",BESMART
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#EXTINF:-1 group-title="KNOWLEDGE"tvg-logo="",DISCOVERY
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=disco&bandwidth=default&sync=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://meneerz.files.wordpress.com/2021/09/nickelodeon_small.png",NICKELODEON
